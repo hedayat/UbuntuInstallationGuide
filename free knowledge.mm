@@ -163,7 +163,9 @@
 </node>
 <node CREATED="1314256067916" ID="ID_1884097884" MODIFIED="1314259177413" TEXT="what is the scheme of partitioning for each OS?"/>
 </node>
-<node CREATED="1313048414107" ID="ID_406662715" MODIFIED="1314255397026" TEXT="4- how do we make different partitions?"/>
+<node COLOR="#ff0000" CREATED="1313048414107" ID="ID_406662715" MODIFIED="1319739989683" TEXT="4- how do we make different partitions?">
+<icon BUILTIN="full-2"/>
+</node>
 </node>
 </node>
 </node>
